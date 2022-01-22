@@ -4,16 +4,6 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.image-background {
-  width: 320px;
-  height: 325px;
-  background-color: #f1f1f1;
-  padding: 10px;
-  margin-right: 10px;
-  border-radius: 10px;
-  margin: auto;
-}
-
 .ractangular {
   width: 350px;
   height: 104px;
